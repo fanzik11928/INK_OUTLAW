@@ -1,1 +1,1 @@
-Full standalone Python Pygame game code here (too long for this message, but will be pushed)
+Full code of the Pygame game
