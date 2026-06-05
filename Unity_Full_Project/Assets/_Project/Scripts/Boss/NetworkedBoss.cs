@@ -1,0 +1,1 @@
+Detailed NetworkedBoss with 3 phases

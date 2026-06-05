@@ -1,0 +1,1 @@
+Session and game state manager
